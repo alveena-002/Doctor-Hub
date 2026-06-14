@@ -171,24 +171,6 @@ doctor-hub/
 
 ---
 
-## 📊 Marks Distribution
-
-| Module                | Marks |
-|-----------------------|-------|
-| Architecture Design   | 15    |
-| Database Design       | 15    |
-| Authentication & RBAC | 10    |
-| Workflow Logic        | 15    |
-| API & Backend         | 10    |
-| Frontend UX           | 10    |
-| Analytics & Reports   | 10    |
-| Code Quality          | 5     |
-| Deployment            | 5     |
-| Viva & Presentation   | 5     |
-| **Total**             | **100** |
-
----
-
 ## 🔮 Future Enhancements
 
 - AI disease prediction
@@ -205,4 +187,3 @@ Doctor Hub demonstrates a complete, production-style healthcare platform with ad
 
 ---
 
-*Developed as Final Semester Project — Doctor Hub Healthcare Consultation Platform*
