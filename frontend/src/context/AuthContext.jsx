@@ -5,7 +5,7 @@ const AuthContext = createContext(null)
 
 export const useAuth = () => useContext(AuthContext)
 
-axios.defaults.baseURL = '/api'
+axios.defaults.baseURL = import.meta.env.VITE_API_URL || 'https://doctor-hub-nhjz.vercel.app/api'
 
 export function AuthProvider({ children }) {
   const [user, setUser] = useState(null)
